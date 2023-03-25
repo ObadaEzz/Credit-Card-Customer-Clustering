@@ -1,0 +1,2 @@
+ The problem described in this dataset requires us to extract segments of customers depending on their behavior patterns provided in the dataset, to focus marketing strategy of the company on a particular segment.
+This case requires to develop a customer segmentation to define marketing strategy. The Sample dataset summarizing the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
